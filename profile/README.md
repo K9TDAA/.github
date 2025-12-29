@@ -1,12 +1,11 @@
-## Hi there 👋
+# Welcome to the TDAA code repository 🐕
 
-<!--
+This page contains all the code repositories that help run the TDAA's website and databases.
 
-**Here are some ideas to get you started:**
+**TDAA** is the _Teacup Dogs Agility Association_ - https://k9tdaa.com/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This code is owned by the TDAA organization but is open to contributions from interested members of TDAA who help want to make the experience better for trial secretaries and participants.
+
+## Interested in volunteering?
+
+Reach out to teacupagility@gmail.com to ask how to help get involved!
